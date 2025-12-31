@@ -1,0 +1,1 @@
+export default { content: ['./app/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { brand: { navy: '#002B5B', red: '#FD201D', cyan: '#00BCD4' }}}}, plugins: [] };
